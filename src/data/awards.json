@@ -1,0 +1,166 @@
+{
+    "awards": [
+        {
+            "award": "awards.innovation",
+            "year": 2021,
+            "project": "NETA",
+            "entity": "Balidea",
+            "logo": "ries21-logo.png",
+            "web": "https://www.balidea.com/",
+            "video": "https://youtu.be/PArGM-YAu3Y"
+        },
+        {
+            "award": "awards.impact",
+            "year": 2021,
+            "project": "ENREDANDO",
+            "entity": "Cruz Vermella",
+            "logo": "ries21-logo.png",
+            "web": "https://cruzvermella.gal/",
+            "video": "https://www.youtube.com/watch?v=uxpeRNd9pgg"
+        },
+        {
+            "award": "awards.knowledge",
+            "year": 2021,
+            "project": "SMARTCARDIA",
+            "entity": "Balidea",
+            "logo": "ries21-logo.png",
+            "web": "https://www.balidea.com/",
+            "video": "https://www.youtube.com/watch?v=xVBqIXy6Njg"
+        },
+        {
+            "award": "awards.community",
+            "year": 2021,
+            "project": "Plexus Tech",
+            "entity": "Plexus Tech",
+            "logo": "ries21-logo.png",
+            "web": "https://www.plexus.es/",
+            "video": "https://www.youtube.com/watch?v=twY6uUO54jw"
+        },
+        {
+            "award": "awards.revelation",
+            "year": 2021,
+            "project": "SignaMed",
+            "entity": "Universidad de Vigo",
+            "logo": "ries21-logo.png",
+            "web": "https://signamed.uvigo.es/",
+            "video": "https://www.youtube.com/watch?v=MOn9dO7Ae9M"
+        },
+        {
+            "award": "awards.resilience",
+            "year": 2021,
+            "project": "Sonidos de la memoria",
+            "entity": "AFAGA Alzheimer",
+            "logo": "ries21-logo.png",
+            "web": "https://afaga.com/",
+            "video": "https://www.youtube.com/watch?v=UCOvCdohOHw"
+        },
+        {
+            "award": "awards.innovation",
+            "year": 2022,
+            "project": "Clusteres Terapéuticos Moleculares para el tratamiento del cáncer: eliminar el miedo al diagnóstico",
+            "entity": "Arjuna Therapeutics",
+            "logo": "ries22-logo.png",
+            "web": "https://arjunatherapeutics.com/",
+            "video": "https://youtu.be/suDgCT-JKLk"
+        },
+        {
+            "award": "awards.impact",
+            "year": 2022,
+            "project": "Estratexias para hábitats saudables",
+            "entity": "Estudio MMASA",
+            "logo": "ries22-logo.png",
+            "web": "https://www.mmasa.net/",
+            "video": "https://youtu.be/XEXVKXb96d0"
+        },
+        {
+            "award": "awards.knowledge",
+            "year": 2022,
+            "project": "Neuro-TIC",
+            "entity": "Grupo VARPA – UDC",
+            "logo": "ries22-logo.png",
+            "web": "http://www.varpa.es/",
+            "video": "https://youtu.be/KnfFzTLv-4g"
+        },
+        {
+            "award": "awards.community",
+            "year": 2022,
+            "project": "Cátedra de edadismo",
+            "entity": "ATENDO/AFAGA",
+            "logo": "ries22-logo.png",
+            "web": "http://edadismo.org/",
+            "video": "https://youtu.be/xOH2pSwLlzk"
+        },
+        {
+            "award": "awards.revelation",
+            "year": 2022,
+            "project": "Fisioterapia virtual inmersiva en personas mayores para la mejora de capacidades físicas y funcionales",
+            "entity": "Universidade de Vigo",
+            "logo": "ries22-logo.png",
+            "web": "https://www.uvigo.gal/",
+            "video": "https://youtu.be/l4yx1qoathE"
+        },
+        {
+            "award": "awards.resilience",
+            "year": 2022,
+            "project": "",
+            "entity": "Hifas da Terra",
+            "logo": "ries22-logo.png",
+            "web": "https://hifasdaterra.com/",
+            "video": "https://youtu.be/WNp9HrXaj8U"
+        },
+        {
+            "award": "awards.innovation",
+            "year": 2023,
+            "project": "Plataforma de Resultados en Salud",
+            "entity": "PlexusTech",
+            "logo": "ries23-logo.png",
+            "web": "https://www.plexus.es",
+            "video": "https://youtu.be/7Y8KV3L-V04"
+        },
+        {
+            "award": "awards.impact",
+            "year": 2023,
+            "project": "Albergue de Peregrinos Senior Bidealde",
+            "entity": "IDEA",
+            "logo": "ries23-logo.png",
+            "web": "http://www.ideainnovacion.com/",
+            "video": "https://youtu.be/-gkw-D0fzCQ"
+        },
+        {
+            "award": "awards.knowledge",
+            "year": 2023,
+            "project": "10mets",
+            "entity": "10 Mets",
+            "logo": "ries23-logo.png",
+            "web": "https://10mets.com/",
+            "video": "https://youtu.be/qI1_Glt5XaU"
+        },
+        {
+            "award": "awards.community",
+            "year": 2023,
+            "project": "BiG TEAM",
+            "entity": "BiG Formación",
+            "logo": "ries23-logo.png",
+            "web": "https://www.bigformacion.es/",
+            "video": "https://youtu.be/gfDUEtdSKvs"
+        },
+        {
+            "award": "awards.revelation",
+            "year": 2023,
+            "project": "FlowReserve: medicina personalizada en cardiología",
+            "entity": "FlowReserve Labs",
+            "logo": "ries23-logo.png",
+            "web": "http://flowreserve.es/",
+            "video": "https://youtu.be/MliGx0T4iIM"
+        },
+        {
+            "award": "awards.resilience",
+            "year": 2023,
+            "project": "",
+            "entity": "UNIRISCO",
+            "logo": "ries23-logo.png",
+            "web": "https://www.unirisco.com/",
+            "video": ""
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "Fórum RIES",
+    "description": "#RIES é o fórum internacional de referencia a nivel nacional e internacional para abordar os retos e oportunidades do ecosistema da saúde. Liderado polo Cluster Saúde de Galicia, CSG, xestouse como foro de encontro entre os principais axentes dos sectores sanitario e sociosanitario do ámbito público e privado a nivel nacional e internacional, en colaboración cos nosos partners estratéxicos da #ComunidadeCSG",
+    "soon": "Apertura de rexistro próximamente!",
+    "menu": {
+        "awards": "Premios RIES",
+        "editions": "Edicións RIES",
+        "gallery": "Galeria",
+        "report": "Memoria",
+        "news": "Noticias",
+        "clipping": "Clipping de prensa",
+        "videos": "Videos",
+        "program": "Programa",
+        "speakers": "Relatores",
+        "introduction": "Introdución",
+        "presentation": "Presentación",
+        "presentations": "Presentacións",
+        "committee": "Comité",
+        "privacy": "Política de privacidad",
+        "legal": "Aviso Legal",
+        "cookies": "Política de cookies",
+        "follow": "Síguenos!"
+    },
+
+    "dates": {
+        "days": "días",
+        "hours": "horas",
+        "minutes": "minutos",
+        "seconds": "segundos"
+    },
+    "awards": {
+        "innovation": "Innovación CSG",
+        "impact": "Impacto nas persoas",
+        "knowledge": "Coñecemento",
+        "community": "Comunidade CSG",
+        "revelation": "Revelación",
+        "resilience": "Resiliencia",
+        "cta": "Descubre todos os proxectos premiados",
+        "21": "Premios #RIES21",
+        "22": "Premios #RIES22",
+        "23": "Premios #RIES23"
+    },
+    "utilities": {
+        "organized": "Organiza:",
+        "collaboration": "Colabora:"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Forum RIES",
+    "description": "#RIES is the international reference forum at a national and international level to address the challenges and opportunities of the health ecosystem. Led by the Galician Health Cluster, CSG, it has been created as a meeting forum between the main agents of the public and private health and care sectors at a European level in collaboration with our strategic partners of the #CSG_Community",
+    "soon": "Inscriptions coming soon!",
+    "menu": {
+        "awards": "RIES Awards",
+        "editions": "RIES Editions",
+        "gallery": "Gallery",
+        "report": "Report",
+        "news": "News",
+        "clipping": "Press clipping",
+        "videos": "Videos",
+        "program": "Program",
+        "speakers": "Speakers",
+        "introduction": "Introduction",
+        "presentation": "Presentation",
+        "presentations": "Presentations",
+        "committee": "Committee",
+        "privacy": "Privacy Policy",
+        "legal": "Legal",
+        "cookies": "Cookies Policy",
+        "follow": "Follow us!"
+    },
+    "dates": {
+        "days": "days",
+        "hours": "hours",
+        "minutes": "minutes",
+        "seconds": "seconds"
+    },
+    "awards": {
+        "innovation": "Innovation CSG",
+        "impact": "Impact on people",
+        "knowledge": "Knowledge",
+        "community": "CSG Community",
+        "revelation": "Revelation",
+        "resilience": "Resilience",
+        "cta": "Discover all awarded projects",
+        "21": "#RIES21 Awards",
+        "22": "#RIES22 Awards",
+        "23": "#RIES23 Awards"
+    },
+    "utilities": {
+        "organized": "Organized by:",
+        "collaboration": "Collaborators:"
+    }
+}
